@@ -1,5 +1,4 @@
-# UjjalDas_G2B4_DSA_GradedProject2
+# UjjalDas_G2B4_DSA_Group Assignment-2
 
-GRADED PROJECT 2
-
+Group Assignment - 2
 NAME: Ujjal Das
